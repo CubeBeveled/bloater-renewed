@@ -1,0 +1,22 @@
+{
+  "name": "bloater-renewed",
+  "version": "1.0.0",
+  "description": "If you want packages, heres some. Original bloater by Stefan Hering https://www.npmjs.com/package/bloater",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CubeBeveled/bloater-renewed.git"
+  },
+  "keywords": [
+    "bloat"
+  ],
+  "author": "Beveled Cube, Stefan Hering",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/CubeBeveled/bloater-renewed/issues"
+  },
+  "homepage": "https://github.com/CubeBeveled/bloater-renewed#readme"
+}
