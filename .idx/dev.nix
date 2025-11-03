@@ -11,6 +11,7 @@
     pkgs.nodejs
     pkgs.vnstat
     pkgs.fastfetch
+    pkgs.python3
   ];
   # Sets environment variables in the workspace
   env = {};
