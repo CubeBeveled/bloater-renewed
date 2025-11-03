@@ -6,9 +6,10 @@
   # Use https://search.nixos.org/packages to find packages
   packages = [
     pkgs.yarn
-    pkgs.vnstat
+    pkgs.bun
     pkgs.pnpm
-    pkgs.npm
+    pkgs.nodejs
+    pkgs.vnstat
   ];
   # Sets environment variables in the workspace
   env = {};
