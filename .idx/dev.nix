@@ -10,6 +10,7 @@
     pkgs.pnpm
     pkgs.nodejs
     pkgs.vnstat
+    pkgs.fastfetch
   ];
   # Sets environment variables in the workspace
   env = {};
