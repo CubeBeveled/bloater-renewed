@@ -1,4 +1,5 @@
 node_modules/
+automation/
 
 package-lock.json
 yarn.lock
